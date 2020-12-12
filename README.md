@@ -2,6 +2,8 @@
 
 Generic Social Card based on fun project of Dave Ceddia
 
+User picture is taken from https://randomuser.me/photos
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
