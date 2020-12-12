@@ -1,0 +1,21 @@
+.footer {
+  background: white;
+  margin: 2% 0%;
+  padding: 2%;
+  border: 1px solid rgba(194, 183, 183, 0.753);
+  border-radius: 1% 1% 1% 0%;
+}
+
+.heading {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.subHeading {
+  font-size: 13px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(190, 190, 180);
+}

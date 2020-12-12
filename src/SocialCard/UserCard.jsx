@@ -1,13 +1,14 @@
 import React from "react";
+import "./UserCard.css";
 
 const UserCard = (props) => {
-  const { userName, userPhoto } = props;
+  const { user } = props;
+  const { name, photo } = user;
+
   return (
-    <div>
-      <div>{userName}</div>
-      <div>
-        <img src={userPhoto} alt={userName} />
-      </div>
+    <div className="userCard">
+      <p className="userName">{name}</p>
+      <img className="imageBox" src={photo} alt="" />
     </div>
   );
 };

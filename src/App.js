@@ -1,10 +1,11 @@
 import React from "react";
 import "./App.css";
+import SocialCard from "./SocialCard/SocialCard";
 
 const App = () => {
   return (
     <div>
-      <h1>Create React App Skeleton</h1>
+      <SocialCard heading="Learning React? Start Small." />
     </div>
   );
 };
