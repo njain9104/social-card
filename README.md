@@ -1,6 +1,6 @@
-# cra-skeleton
+# Social Card
 
-CRA Skeleton
+Generic Social Card based on fun project of Dave Ceddia
 
 # Getting Started with Create React App
 
